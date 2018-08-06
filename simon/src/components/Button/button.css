@@ -1,0 +1,41 @@
+.button {
+    outline: none;
+    opacity: 0.4;
+    margin: 0.2rem;
+
+  }
+
+  .button.on {
+    opacity: 2.0;
+  }
+  
+  .button.small {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .button.medium {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .button.large {
+    height: 200px;
+    width: 200px;
+  }
+
+  .button.red {
+    border-radius: 0 200px 0 0;
+  }
+
+  .button.green {
+    border-radius: 200px 0 0 0;
+  }
+
+  .button.yellow {
+    border-radius: 0 0 0 200px;
+  }
+
+  .button.blue {
+    border-radius: 0 0 200px 0;
+  }

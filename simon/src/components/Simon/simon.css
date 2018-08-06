@@ -1,0 +1,14 @@
+.simon {
+    overflow: hidden;
+    height: 100%;
+    width: 30rem;
+    margin: 0%;
+    padding: 10rem 0 10rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    background: black;
+}
